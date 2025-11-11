@@ -26,8 +26,8 @@ Visa Status - **Transferable [H-1B / Skilled Worker] Visa** – No cap gap - Rea
 > • **Vulnerabilities found: 0**
 > **Conclusion**: BBC maintains exceptional security hygiene.
 >
-> **Identifying Malicious Hashes** *
-> # Scan 50= Hashes
+>  # Identifying malicious Hashes
+>  # Scanning 50+ Hashes
 >  **Researcher**: Olatunji Olanike **Date**: 09 Nov 2025
 > **Tool**: Python 3, Yara Rule
 >  **Scope**: using VirusTotal API key to scan uploaded hashes for malicious Hashes with Python Script 
