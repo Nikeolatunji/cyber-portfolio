@@ -36,6 +36,6 @@ Visa Status - **Transferable [H-1B / Skilled Worker] Visa** – No cap gap - Rea
 > • Requests sent: 50
 > • Duration: 1m 
 > • **Malicious hashes found: 5**
-> **Conclusion**: File uploaded contained malicious hash.
+> **Conclusion**: File uploaded contained malicious hashes.
 > 
 > 
