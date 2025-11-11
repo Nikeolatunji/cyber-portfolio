@@ -14,9 +14,9 @@ Visa Status - **Transferable [H-1B / Skilled Worker] Visa** – No cap gap - Rea
 | head 10 
 > [View PDF Report](splunk dashboard.png+splunk-report.pdf) | ![Dashboard](Brute-Force Detection with Splunk SIEM.png)
 >
-> **Public Vulnerability Report** *(in progress)* > CVE scan on bug-bounty target (BBC) > [bbc-clean-proof.png](bbc-enterprise-scan.pdf)
+> **Public Vulnerability Report** ** > CVE scan on bug-bounty target (BBC) > [bbc-clean-proof.png](bbc-enterprise-scan.pdf)
 > # Enterprise Vulnerability Assessment – bbc.co.uk
->  **Researcher**: YOUR NAME **Date**: 09 Nov 2025
+>  **Researcher**: Olatunji Olanike **Date**: 09 Nov 2025
 > **Tool**: Nuclei v3 – Kali Linux
 >  **Scope**: BBC HackerOne public program (legal)
 >  ## Scan Statistics
@@ -25,4 +25,17 @@ Visa Status - **Transferable [H-1B / Skilled Worker] Visa** – No cap gap - Rea
 > • Duration: 1m 9s
 > • **Vulnerabilities found: 0**
 > **Conclusion**: BBC maintains exceptional security hygiene.
+>
+> **Identifying Malicious Hashes** *
+> # Scan 50= Hashes
+>  **Researcher**: Olatunji Olanike **Date**: 09 Nov 2025
+> **Tool**: Python 3, Yara Rule
+>  **Scope**: using VirusTotal API key to scan uploaded hashes for malicious Hashes with Python Script 
+>  ## Scan Statistics
+> • Templates loaded:50+
+> • Requests sent: 50
+> • Duration: 1m 
+> • **Malicious hashes found: 5**
+> **Conclusion**: File uploaded contained malicious hash.
+> 
 > 
